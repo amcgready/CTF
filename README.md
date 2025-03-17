@@ -5,7 +5,6 @@ CTF (Capture the Flag or Chrome to Firefox) is a developer tool to quickly port 
 - Clone repo or download main.py script
 - Open a terminal window and type 'python main.py' and follow on-screen instructions
 
-# Instructions for post script extension install
 Firefox Extension Installation Instructions
 =====================================
 
