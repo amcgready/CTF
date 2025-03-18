@@ -1,5 +1,5 @@
 # CTF
-CTF (Capture the Flag or Chrome to Firefox) is a developer tool to quickly port Chrome extensions to Firefox. This script is designed to be run on a Windows machine, other OS support may be added in the future depending on user request.
+CTF (Capture the Flag or Chrome to Firefox) is a developer tool to quickly port Chrome extensions to Firefox. This script is designed to be run on a Windows machine, other OS support may be added in the future depending on user request. Extensions with additional security, such as official Adobe or Google extensions, can not be converted. If you find an extension that can not be converted, please open a new Issue with the extension ID number so I can keep a log.
 
 # How to Run
 - Clone repo or download main.py script
