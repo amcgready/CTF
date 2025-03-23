@@ -46,3 +46,6 @@ For permanent installation in regular Firefox:
    web-ext build
 3. Upload the generated .zip file to https://addons.mozilla.org/developers/
 4. Wait for Mozilla review and approval
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/PhtmRaven?country.x=US&locale.x=en_US)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖%20GitHub%20Sponsors-orange?logo=github)](https://github.com/sponsors/amcgready)
