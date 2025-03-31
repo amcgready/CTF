@@ -1,5 +1,13 @@
-[![Join us on Discord](https://img.shields.io/badge/Chat-Join%20us%20on%20Discord-7289da?logo=discord&logoColor=white)](https://discord.gg/hdDj4aZTVf)
-![GitHub all releases](https://img.shields.io/github/downloads/amcgready/CTF/total)
+<p align="center">
+  <img src="https://i.imgur.com/PgQJ2CU.png" alt="Project Banner">
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/hdDj4aZTVf">
+    <img src="https://img.shields.io/badge/Chat-Join%20us%20on%20Discord-7289da?logo=discord&logoColor=white" alt="Join us on Discord">
+  </a>
+  <img src="https://img.shields.io/github/downloads/amcgready/CTF/total" alt="GitHub all releases">
+</p>
 
 # CTF
 CTF (Capture the Flag or Chrome to Firefox) is a developer tool to quickly port Chrome extensions to Firefox. This script is designed to be run on a Windows machine, other OS support may be added in the future depending on user request. Extensions with additional security, such as official Adobe or Google extensions, can not be converted. If you find an extension that can not be converted, please open a new Issue with the extension ID number so I can keep a log.
